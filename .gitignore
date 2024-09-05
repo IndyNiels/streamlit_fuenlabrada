@@ -12,7 +12,7 @@ env/
 .streamlit/
 
 # Data files
-*.csv
+b*.csv
 *.json
 *.xlsx
 
